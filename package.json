@@ -1,0 +1,10 @@
+{
+  "name": "todoist-checklist-resetter",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Pallop Chaoputhipuchong <pallop.chao@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "@now/node": "^1.5.1"
+  }
+}
